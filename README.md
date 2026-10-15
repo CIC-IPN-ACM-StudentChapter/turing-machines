@@ -1,6 +1,6 @@
 # turing-machines
 Ejercicio de máquinas de Turing en git
-
+#hola Mike
 
 ## Configuración
 
